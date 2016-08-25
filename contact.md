@@ -14,27 +14,24 @@ comments: false
 
 <img src="{{ site.url }}/images/contact/email.png" alt="Email" width="30"> <br><br>
 
-leal.taixe (at) tum.de
+cristian.canton (at) gmail.com
 
 <br>
 <br><br>
 
   <img src="{{ site.url }}/images/contact/location.png" alt="Location" width="30"> <br><br>
 
-Laura Leal-Taixe <br>
-Technical University Munich<br>
-Computer Vision Group, I09<br>
-Boltzmannstrasse 3<br>
- 85748 Garching<br>
- Germany<br>
- 
+Cristian Canton<br>
+Microsoft Corporation, Technology and Research (TnR)<br>
+Building 99, 14820 NE 36th St, 
+Redmond, WA 98052<br>
+USA<br>
+
 <br><br> 
 <img src="{{ site.url }}/images/contact/phone.png" alt="Phone" width="30"> <br><br>
 
-Tel: +49-89-289-17759<br>
-Fax: +49-89-289-17757<br>
-Office: 02.09.044<br>
- 
+Office: +1-425-538-1726<br>
+
   
   
 
