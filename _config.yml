@@ -1,20 +1,20 @@
-title:            Laura’s Home
-description:      Welcome to Laura’s world!
+title:            Cristian Canton's web page
+description:      Cristian Canton's web page
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              https://lealtaixe.github.io
+url:              https://cristiancanton.github.io
 disqus_shortname: lealtaixe
 
 # Owner/author information
 owner:
-  name:           Laura Leal-Taixé
-  avatar:         laura_bw.png
-  bio:            I'm from the lively town of Barcelona! I currently work in Munich as a postdoctoral researcher, after spending some wonderful time in Zurich, Ann Arbor and Hannover. 
-  email:          leal.taixe@tum.de
+  name:           Cristian Canton
+  avatar:         CristianCanton.jpg
+  bio:            My bio..
+  email:          cristian.canton@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lealtaixe
-  linkedin: laura-leal-taixé-b0361b108
+  twitter: cristiancanton
+  linkedin: cristiancanton
   google_scholar: tT2TC-UAAAAJ
-  github: lealtaixe
+  github: cristiancanton
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-80311021-1
 google_verify:
@@ -30,13 +30,13 @@ links:
     url: /publications/
   - title: Code
     url: /code/
-  - title: Academic activities
-    url: /academic_activities/
+  #- title: Academic activities
+  #  url: /academic_activities/
   - title: Contact
     url: /contact/
  
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Munich
+timezone:    US/Pacific
 future:      true
 #pygments:    true
 highlighter: rouge
