@@ -4,7 +4,7 @@ title: Latest news
 description: "Cristian Canton's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: grafiti.png
+  feature: mosaicHeader.jpg
 ---
 
 <section>
