@@ -16,7 +16,7 @@ owner:
   google_scholar: akzoGjUAAAAJ
   github: cristiancanton
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-80311021-1
+google_analytics: UA-83443113-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -24,8 +24,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  #- title: Curriculum
-  #  url: /cv/
+  - title: Curriculum
+    url: /cv/
   - title: Publications
     url: /publications/
   #- title: Code
