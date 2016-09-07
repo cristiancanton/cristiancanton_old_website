@@ -4,7 +4,7 @@ title: Welcome!
 description: "Cristian Canton's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: mosaicHeader.jpg
+  feature: roadToTheFuture.jpg
 ---
 
 <section>
